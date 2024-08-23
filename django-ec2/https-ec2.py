@@ -1,6 +1,6 @@
 # HOW TO PROVIDE HTTPS SUPPORT TO YOUR EC2 INSTANCE
 '''
-1. FOLLOW THE 'http-ec2' file to deploy your django project on ec2 instance.
+1. FOLLOW THE 'deploy' file to deploy your django project on ec2 instance.
 
 2. Buy a domain(sites google domain, godaddy etc.) for your site or skip if you already have one.
 
