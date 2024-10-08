@@ -8,3 +8,4 @@
          b) Deploy Django project on EC2 instance
          c) HTTPS SUPPORT ON EC2
    
+
